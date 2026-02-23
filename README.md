@@ -1,9 +1,9 @@
-👟 Global Footwear Sales Analysis (SQL Project)
-📌 Project Overview
+# 👟 Global Footwear Sales Analysis (SQL Project) <br>
+## 📌 Project Overview
 
 This project analyzes global footwear sales data using SQL to extract meaningful business insights. The objective is to evaluate revenue performance, identify top-performing regions and product categories, and analyze sales trends over time.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze total revenue, profit, and sales performance.
 
@@ -15,7 +15,7 @@ Measure category-wise and region-wise contribution to total sales.
 
 Detect high-value customers and sales trends using analytical functions.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 SQL (PostgreSQL / MySQL)
 
@@ -29,7 +29,7 @@ Aggregate Functions
 
 Date Functions (DATE_TRUNC, TO_CHAR)
 
-📊 Key SQL Concepts Used
+## 📊 Key SQL Concepts Used
 
 Revenue & Profit Calculation
 
@@ -43,7 +43,7 @@ Customer Segmentation
 
 Query Optimization Techniques
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset contains transactional sales records including:
 
@@ -59,7 +59,7 @@ Revenue
 
 Profit
 
-📈 Sample Business Insights
+## 📈 Sample Business Insights
 
 Identified top 3 revenue-generating regions.
 
@@ -69,6 +69,12 @@ Calculated percentage contribution of each footwear category.
 
 Ranked customers based on total purchase value.
 
-🚀 Project Outcome
+## 🚀 Project Outcome
 
-The project demonstrates strong SQL proficiency in handling large datasets, performing advanced analytics using window functions
+Generated data-driven insights on revenue trends, top-performing regions, and product categories using advanced SQL analytics.
+
+Identified sales growth patterns and high-value customers through window functions and ranking techniques.
+
+Improved business decision-making by calculating contribution percentages and performance KPIs.
+
+Demonstrated strong proficiency in writing optimized, scalable SQL queries for large transactional datasets.
