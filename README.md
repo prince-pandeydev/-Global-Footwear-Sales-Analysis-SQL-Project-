@@ -43,21 +43,43 @@ Customer Segmentation
 
 Query Optimization Techniques
 
-## 📂 Dataset Description
+## 📂 Dataset Column Description
 
-The dataset contains transactional sales records including:
+order_id – Unique identifier for each order
 
-Order Date
+order_date – Date when the order was placed
 
-Region / Country
+brand – Footwear brand name
 
-Product Category
+model_name – Specific model of the footwear
 
-Quantity Sold
+category – Product category (e.g., Sneakers, Boots, Sandals)
 
-Revenue
+gender – Target gender (Men/Women/Unisex)
 
-Profit
+size – Footwear size
+
+color – Product color
+
+base_price_usd – Original price before discount (in USD)
+
+discount_percent – Discount percentage applied
+
+final_price_usd – Final price after discount (in USD)
+
+units_sold – Number of units sold
+
+revenue_usd – Total revenue generated (final_price × units_sold)
+
+payment_method – Mode of payment (Credit Card, PayPal, etc.)
+
+sales_channel – Sales platform (Online / Offline)
+
+country – Country where the product was sold
+
+customer_income_level – Customer income category (Low / Medium / High)
+
+customer_rating – Rating given by the customer
 
 ## 📈 Sample Business Insights
 
