@@ -1,0 +1,20 @@
+CREATE TABLE sales (
+    order_id VARCHAR(20) PRIMARY KEY,
+    order_date DATE,
+    brand VARCHAR(50),
+    model_name VARCHAR(50),
+    category VARCHAR(50),
+    gender VARCHAR(20),
+    size INT,
+    color VARCHAR(30),
+    base_price_usd NUMERIC(10,2),
+    discount_percent NUMERIC(5,2),
+    final_price_usd NUMERIC(10,2),
+    units_sold INT,
+    revenue_usd NUMERIC(12,2),
+    payment_method VARCHAR(30),
+    sales_channel VARCHAR(30),
+    country VARCHAR(50),
+    customer_income_level VARCHAR(20),
+    customer_rating NUMERIC(3,1)
+);
